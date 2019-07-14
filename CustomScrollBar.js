@@ -1,4 +1,4 @@
-class CustomScrollbar {
+class CustomScrollBar {
   constructor() {
     this.containerScroll = document.querySelector('.has-custom-scrollbar');
     this.drag_active = false;
@@ -110,5 +110,5 @@ class CustomScrollbar {
   }
 }
 
-let customScrollbar = new CustomScrollbar();
+let customScrollbar = new CustomScrollBar();
 customScrollbar.load();
