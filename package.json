@@ -1,6 +1,6 @@
 {
   "name": "fa-custom-scrollbar",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Very light script written in vanilla JS to have a custom scrollbar",
   "main": "CustomScrollBar.js",
   "scripts": {
