@@ -1,0 +1,24 @@
+{
+  "name": "fa-custom-scrollbar",
+  "version": "1.0.0",
+  "description": "Very light script written in vanilla JS to have a custom scrollbar",
+  "main": "CustomScrollBar.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FAngelo94/Custom-Scrollbar.git"
+  },
+  "keywords": [
+    "custom",
+    "scrollbar",
+    "vanillaJS"
+  ],
+  "author": "Falci Angelo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FAngelo94/Custom-Scrollbar/issues"
+  },
+  "homepage": "https://github.com/FAngelo94/Custom-Scrollbar#readme"
+}

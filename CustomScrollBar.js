@@ -1,6 +1,6 @@
 class CustomScrollBar {
   constructor() {
-    this.containerScroll = document.querySelector('.has-custom-scrollbar');
+    this.containerScroll = document.querySelector('.fa-has-custom-scrollbar');
     this.drag_active = false;
     this.previouse_y = 0;
     this.relativeMouseY = 0;
@@ -86,7 +86,7 @@ class CustomScrollBar {
     // Create the custom scrollbar and add it to the container
     const scrollbar = document.createElement('div');
     this.containerScroll.appendChild(scrollbar);
-    scrollbar.classList.add('custom-scrollbar');
+    scrollbar.classList.add('fa-custom-scrollbar');
     // Get height of container and total height taken from object inside
     let heightContainer = this.containerScroll.offsetHeight;
     let height = this.containerScroll.scrollHeight;

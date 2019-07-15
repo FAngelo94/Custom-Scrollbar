@@ -1,0 +1,24 @@
+.fa-has-custom-scrollbar::-webkit-scrollbar {
+  display: none !important;
+
+}
+
+.fa-has-custom-scrollbar {
+  position: relative !important;
+  scrollbar-width: none !important; 
+  -ms-overflow-style: none !important;
+  -moz-appearance: none !important;
+  -webkit-appearance: none !important;
+  overflow: -moz-scrollbars-none !important;
+}
+
+.fa-custom-scrollbar {
+  position: absolute !important;
+  display: block !important;
+  width: 10px;
+  height: 100%;
+  background-color: red;
+  border-radius: 5px;
+  right: 0;
+  top: 0;
+}
