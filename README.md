@@ -28,3 +28,17 @@ Then change the property in the class "fa-custom-scrollbar" to customize the scr
 ## Codepen example
 
 Here an example of how to apply the custom scrollbar and how to customize it: https://codepen.io/FAngelo94/pen/jopzKO
+
+## Browsers support
+
+This package is tested and compatible with the last versions of Chrome, Firefox, Safari and Edge.
+
+:white_check_mark: Chrome
+<br/>
+:white_check_mark: Firefox
+<br/>
+:white_check_mark: Safari
+<br/>
+:white_check_mark: Edge
+
+To use it with explorer 11 you need a transpiler because it is written in ES6.
