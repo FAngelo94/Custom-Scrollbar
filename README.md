@@ -3,10 +3,10 @@ A really light custom scrollbar made in Vanilla Javascript
 
 ## Install
 
-Install with [npm](https://www.npmjs.com/):
+Install with [npm](https://www.npmjs.com/package/fa-custom-scrollbar):
 
 ```sh
-$ npm install --save is-number
+$ npm i fa-custom-scrollbar
 ```
 
 ## Why is this needed?
